@@ -8,3 +8,4 @@ My project plan:
 - Do implementation
 - Do testing
 - Deployment
+- Finish the project
